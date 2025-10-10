@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sdvDRWEvrVBNBpFGCa37DHfPKo79xFuKfw&s)
+![logo](https://github.com/GauravKapale/GauravKapale/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Gaurav Kapale</h1>
 <h3 align="center">A passionate Web Development and Fullstack Development enthusiast</h3>
