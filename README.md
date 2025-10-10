@@ -1,4 +1,4 @@
-![logo]((https://as2.ftcdn.net/v2/jpg/08/86/49/53/1000_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg))
+![logo](https://as2.ftcdn.net/v2/jpg/08/86/49/53/1000_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg)
 
 <h1 align="center">Hi 👋, I'm Gaurav Kapale</h1>
 <h3 align="center">A passionate Web Development and Fullstack Development enthusiast</h3>
