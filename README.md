@@ -1,9 +1,8 @@
-![logo](https://github.com/GauravKapale/GauravKapale/blob/main/Github%20Banner.png)
+![logo]((https://as2.ftcdn.net/v2/jpg/08/86/49/53/1000_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg))
 
 <h1 align="center">Hi 👋, I'm Gaurav Kapale</h1>
 <h3 align="center">A passionate Web Development and Fullstack Development enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkapale&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkapale" /> </p>
 
 - 🔭 I’m currently working on **Supply Chain Management Using Blockchain and AI**
 
