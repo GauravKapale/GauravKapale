@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kapale</h1>
 <h3 align="center">A passionate Web development as well as fullstack development</h3>
 <!-- <img align="right"alt="coding"width"400"src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1709596800&semt=ais"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasubiradar&label=Profile%20views&color=0e75b6&style=flat" alt="vasubiradar" /> </p>
+<!--  -->
 
 - 🔭 I’m currently working on **Supply Chain Management Using Blockchain and AI**
 
