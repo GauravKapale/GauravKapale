@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b9df146296135.62a754b704b32.gif" 
-       alt="coding-banner" 
-       width="100%" />
+  <img src="https://raw.githubusercontent.com/gururajrk41/coding-gif/main/banner-gif.gif" 
+       width="100%" 
+       alt="coding banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Kapale</h1>
